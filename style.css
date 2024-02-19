@@ -4,3 +4,51 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+body{
+    background-color: antiquewhite;
+}
+
+.nav-colors{
+    background-color: antiquewhite;
+}
+.container1{
+    height: 12vh;
+    background-color: antiquewhite;
+}
+
+.sign-in-color{
+    background-color: red;
+}
+.price-color{
+    background-color: brown;
+}
+@media screen and (max-width:700px) {
+    strong{
+        display: none;
+    }
+    row{
+        justify-content: center;
+    }
+    
+}
+.text-brown{
+    color: brown;
+}
+.Orders-portion{
+  background-color: antiquewhite;   
+}
+.text-brown2{
+    border-color: brown;
+}
+.Order-delivery{
+    border:1px orangered ;
+}
+h1{
+    font-size: 36px;
+}
+.container2{
+    background-color: brown;
+}
+.bg-brown{
+    background-color: brown;
+}
